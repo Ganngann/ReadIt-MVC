@@ -1,0 +1,32 @@
+ReadItMVC
+
+Mise en place de trello
+
+
+
+
+
+Créer l'arborescence MVC (faire un commit quand c'est fait)
+app
+config
+parametres.php
+controleurs
+modeles
+vues
+template
+index.php
+partials
+routeur.php
+noyau
+connexion.php
+init.php
+www
+.htaccess
+index.php
+css
+js
+images
+fonts
+scss
+documents
+.gitignore
