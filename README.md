@@ -1,2 +1,4 @@
 ReadItMVC
-#je pense que pour l'édition il faut retirer le statut de master
+ceci est un exercice de collaboration dans le cadre des études de web dévelopeur à l'IEPS
+
+2020
