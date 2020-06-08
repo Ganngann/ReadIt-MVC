@@ -7,9 +7,9 @@
 
 // PARAMETRES DE CONNEXION A LA DATABASE
     define('HOSTNAME', 'localhost');
-    define('DBNAME',   '');
+    define('DBNAME',   'readit_2020');
     define('USERNAME', 'root');
-    define('USERPWD',  '');
+    define('USERPWD',  'root');
 
 // charge le fichier de connexion a la base de donné
-require_once '../noyau/config/connexion.php';
+require_once '../noyau/connexion.php';
