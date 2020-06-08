@@ -10,4 +10,5 @@ $dbNam = '';
 $dbLogin = '';
 
 // Password de la base de donnée
-$dsPass = '';
+define('PASSWORD','root';)
+$dbPass = 'root';
