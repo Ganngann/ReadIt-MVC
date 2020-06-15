@@ -1,15 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <?php include_once ROOT_TMPL . '/head/details.php'; ?>
+   <?php include_once 'partials/_head.php'; ?>
+
 </head>
 <body>
-      <?php include_once ROOT_TMPL . '/header/details.php'; ?>
 
-      <?php include_once ROOT_TMPL . '/main/details.php'; ?>
+   <?php include_once 'partials/_header.php'; ?>
 
-      <?php include_once ROOT_TMPL . '/footer/details.php'; ?>
+   <!-- END nav -->
 
-      <?php include_once ROOT_TMPL . '/footer/loader.php'; ?>
+   <?php include_once 'partials/_main.php'; ?>
+
+
+   <?php include_once 'partials/_footer.php'; ?>
+
+
+   <?php include_once 'partials/_loader.php'; ?>
+
+   <?php include_once 'partials/_script.php'; ?>
+
+
+
 </body>
 </html>
