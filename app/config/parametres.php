@@ -2,7 +2,10 @@
 
 // initialiser les zones dynamiques
 
-// $nomDeLaZone = 'lorem ipsum';
+$content = '<!-- $content -->';
+$title = '<!-- $title -->';
+
+
 
 
 
